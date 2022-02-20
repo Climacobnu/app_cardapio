@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "app--cardapio-digital"
+  },
+    "targets": {
+    "app--cardapio-digital": {
+      "hosting": {
+        "admin-cd-climaco": [
+          ""
+        ]
+      }
+    }
+  }
+}
